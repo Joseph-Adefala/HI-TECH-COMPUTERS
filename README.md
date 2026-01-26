@@ -1,5 +1,5 @@
-# Joseph-First-Website
-new website
+#WELCOME
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,13 +16,9 @@ new website
          <fieldset> 08145764121</fieldset>
      <address>omowo street</address>
      <form> </form>
-     <button>ONLINE PAYMENT OPTIONS</button> 
-     <a href=<details></figcaption>8145764121 PALMPAY</figcaption>
+    <p> <button>ONLINE PAYMENT OPTIONS</button> </p>
+    <p> <a href=<details></figcaption>8145764121 PALMPAY</figcaption> </p>
    
 <p><a href="https://wa.me/2348145764121"> <button> CHAT WITH US</button></a></p>
-
-    </body>
-
-   
 
 </html>
