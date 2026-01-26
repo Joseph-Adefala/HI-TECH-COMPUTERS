@@ -10,8 +10,8 @@
     <h4>SOFTWARE ENGINEERING AND PROGRAMMING/WEB DEVELOPMENT STUDENT</h4>
      
    
-       <button> CONTACT US @</button>
-         <fieldset> 08145764121</fieldset>
+    <button> CONTACT US @</button>
+        <fieldset> 08145764121</fieldset>
      <address>omowo street beside NPOG filling station</address>
      <form> </form>
      <button>ONLINE PAYMENT OPTIONS</button> 
