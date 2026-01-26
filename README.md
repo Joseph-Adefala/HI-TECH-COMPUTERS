@@ -1,5 +1,6 @@
 <h1>WELCOME TO HI TECH ONLINE WEB</h1>
-    <body style="background-color: white;"<p> ●WE DEAL WITH ALL KIND OF LAPTOP SALES</p>
+   <body style="background-image: url('LOGO.jp2'); background-size: cover;">
+ <p> ●WE DEAL WITH ALL KIND OF LAPTOP SALES</p>
     <p> ●PRINTING AND EDITING OF DOCUMENTS</p>
     <p> ●SCANNING AND PRINTING OF FILES/DOCUMENTS </p>
     <h2> WE ALSO OFFER QUALITY LECTURES ON</h2>
