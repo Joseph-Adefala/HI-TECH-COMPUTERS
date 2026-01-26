@@ -9,7 +9,7 @@
    <h3>ADEFALA JOSEPH</h3>
     <h4>SOFTWARE ENGINEERING AND PROGRAMMING/WEB DEVELOPMENT STUDENT</h4>
      
-   <footer>THE END</footer>
+   
        <button> CONTACT US @</button>
          <fieldset> 08145764121</fieldset>
      <address>omowo street beside NPOG filling station</address>
