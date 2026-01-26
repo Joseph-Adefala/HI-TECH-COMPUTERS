@@ -12,7 +12,7 @@
    <footer>THE END</footer>
        <button> CONTACT US @</button>
          <fieldset> 08145764121</fieldset>
-     <address>omowo street</address>
+     <address>omowo street beside NPOG filling station</address>
      <form> </form>
      <button>ONLINE PAYMENT OPTIONS</button> 
      <a href=<details></figcaption>8145764121 PALMPAY</figcaption>
