@@ -11,7 +11,7 @@ new website
    <h3>ADEFALA JOSEPH</h3>
     <h4>SOFTWARE ENGINEERING AND PROGRAMMING/WEB DEVELOPMENT STUDENT</h4>
      
-      <footer>THE END</footer>
+  <footer>THE END</footer>
        <button> CONTACT US @</button>
          <fieldset> 08145764121</fieldset>
      <address>omowo street</address>
@@ -19,7 +19,7 @@ new website
      <button>ONLINE PAYMENT OPTIONS</button> 
      <a href=<details></figcaption>8145764121 PALMPAY</figcaption>
    
-      <p><a href="https://wa.me/2348145764121"> <button> CHAT WITH US</button></a></p>
+<p><a href="https://wa.me/2348145764121"> <button> CHAT WITH US</button></a></p>
 
     </body>
 
