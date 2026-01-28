@@ -11,6 +11,33 @@
 <p> <address>Visit us @ Omowo street beside NPOG filling station</address> </p>
 <p><a href="https://wa.me/2348145764121"> <button> CHAT WITH US</button></a></p></body>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorful Website</title>
+    <style>
+        body {
+            background-color: #f2f2f2; /* Light gray background */
+            font-family: Arial, sans-serif; }
+        h1 {
+            color: #8f3900; /* RED heading */ }
+        h2 {
+            color: #1e06fa; /* BLUE text */}
+        .highlight {
+            background-color: #560effe7; /* Yellow highlight */
+            padding: 10px; }
+        h3 {
+            color:rgb(233, 53, 8)}
+        button {
+            color:#120effe7 }
+        body {
+            background-color:oklch(90.005% 0.18712 121.125)}
+    
+
+    
+
  
 
 
